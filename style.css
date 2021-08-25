@@ -1,0 +1,46 @@
+div #ref {
+    background-color: rgba(55, 92, 141, 0.726);
+  }
+  
+  div #qualn {
+    background-color: rgb(68, 146, 209);
+  }
+  
+  div #skill {
+    background-color: rgb(66, 95, 189);
+  }
+  
+  div #about {
+    background-color: rgb(60, 124, 139);
+  }
+  
+  div #contact{
+      background-color: azure;
+  }
+  div #profxp {
+    background-color: rgb(75, 101, 148);
+  }
+  
+  div #btn {
+    padding-top: 10px;
+  }
+  
+  div .main {
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+    padding-bottom: 20px;
+    float: inline-end;
+    background-color: rgb(66, 46, 46);
+    box-shadow: 10px 10px 5px rgb(104, 88, 88);
+  }
+  
+  button {
+    align-self: center;
+    height: 36px;
+    width: 166px;
+    box-shadow: 10px 10px 5px rgb(153, 116, 116);
+    background-color: aqua;
+  }
+  
